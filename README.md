@@ -42,13 +42,13 @@ This typically included tasks such as removing duplicates and handling missing v
 # 4. Data Analysis
 Data analysis was done by examining and interpreting data to uncover patterns, trends, and insights that informed decision-making and problem-solving.
 ![alt text](<Images/Churn Distribution-1.png>)
-From the pie chart above exactly **85.5%** of the are Not Churned while **14.5%** fall under Churned 
++ From the pie chart above exactly **85.5%** of the are Not Churned while **14.5%** fall under Churned 
 ![alt text](<Images/International Plan-1.png>)
-90.3% of the customers have no International Data plan while 9.7% have a International data plan
++ 90.3% of the customers have no International Data plan while 9.7% have a International data plan
 ![alt text](<Images/Voice mail by Churn-1-1.png>)
-This show that most of the customers do not have a voice mail plan but have a higher churn rate than those who have a voice mail plan.
++ This show that most of the customers do not have a voice mail plan but have a higher churn rate than those who have a voice mail plan.
 ![alt text](<Images/Intenational plan by churn-1.png>)
-This graph shows that most of the customers do not have an international plan but have a higher churn rate than those who have an international plan.
++ This graph shows that most of the customers do not have an international plan but have a higher churn rate than those who have an international plan.
 ![alt text](<Images/Correlation Representation Using a Heatmap-1.png>)
 + Total day minutes has a high correlation with total day charges because the charges is proportional to the minutes.
 + Total night minutes has a high correlation with total night charges because the charges is proportional to the minutes.
@@ -70,9 +70,8 @@ The model classifiers used were:
 + Random Forest Classifier
 
 # 7. Evaluation
-Images/Churn Distribution-1.png
 ![alt text](<Images/Model Comparison-1.png>)
-The above graph shows that the Random Forest has the highest recall score, accuracy score and precision followed by Decision Tree and Logistic regression.
++ The above graph shows that the Random Forest has the highest recall score, accuracy score and precision followed by Decision Tree and Logistic regression.
 
 ## 7.1 Model Tuning
 Since the Random Forest led in performance it is to be enhanced so as to improve its effectiveness .
