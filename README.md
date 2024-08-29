@@ -39,7 +39,7 @@ The dataset consists of 3333 rows of data records and 21 columns of features wit
 This stage involved the process of cleaning, organizing, and transforming raw data into a format suitable for analysis.
 This typically included tasks such as removing duplicates and handling missing values. The goal was to ensure data accuracy and consistency, making it easier to derive meaningful insights and perform reliable analyses. Effective data preparation was crucial for accurate modeling and decision-making.
 
-# 4. Data Analysis
+# 4. Exploratory Data Analysis
 Data analysis was done by examining and interpreting data to uncover patterns, trends, and insights that informed decision-making and problem-solving.
 ![alt text](<Images/Churn Distribution-1.png>)
 + From the pie chart above exactly **85.5%** of the are Not Churned while **14.5%** fall under Churned 
