@@ -105,3 +105,6 @@ To reduce the Churn rate of the customers :
 2. **International plan  :** Implement promotional offers such as discounts for the first few months, referral bonuses, or bundling international call plans with other services.
 3. **voice Mail Plan  :** Offer a basic plan with standard voicemail features and a premium plan with advanced features, including voicemail-to-email and transcription.
 4. **Customer Support  :** Provide comprehensive guides and 24/7 customer support to assist users in setting up and using the voicemail features.
+
+#### Project Presentation
+You can view my presentation for this project on [Canvas](https://www.canva.com/design/DAGPTb4gyOc/7jKSlHss3KzZUwgFz8Aicw/view?utm_content=DAGPTb4gyOc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
